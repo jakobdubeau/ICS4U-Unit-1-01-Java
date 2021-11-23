@@ -48,7 +48,7 @@ final class Logs {
         final Scanner myObj = new Scanner(System.in);
         // get user input
 
-        System.out.println("Enter log length (0.25, .5 or 1): ");
+        System.out.println("Enter log length (0.25, 0.5 or 1): ");
         // stores float in length
 
         final float length = myObj.nextFloat();
